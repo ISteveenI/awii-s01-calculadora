@@ -11,7 +11,7 @@ func main() {
 	for {
 		var a, b float64
 		var operacion string
-		fmt.Println("==== CALCULADORA CIENTÍFICA v4.0 ====")
+		fmt.Println("==== CALCULADORA CIENTÍFICA v1.0 ====")
 		fmt.Print("Ingresa el primer número: ")
 		fmt.Scan(&a)
 		fmt.Print("Ingresa el segundo número (si aplica): ")
